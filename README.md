@@ -13,4 +13,7 @@ My master thesis focuses on building a pipeline for extracting and clustering ne
 - Corpus
 
 ## Model
-For this thesis I trained a YOLOv8 model with 508 annotated pages from "Die Bombe". While the training data and the validation set (106 pages) are provided in the repository, the trained model is available on Hugginface: [YOLOv8_trained_Bombe](https://huggingface.co/LisaGollner/YOLOv8_trained_Bombe/tree/main)
+For this thesis I trained a YOLOv8 model with 508 annotated pages from "Die Bombe". While the training data and the validation set (106 pages) are provided in the repository, the trained model is available on Hugginface: 
+[YOLOv8_trained_Bombe](https://huggingface.co/LisaGollner/YOLOv8_trained_Bombe/tree/main)
+The Training Dataset is available on Zenodo:
+[adding link]
