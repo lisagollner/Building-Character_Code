@@ -14,7 +14,7 @@ This repository contains the Pipeline-Notebooks which are intendet to be run in 
  - Notebook-4: Manual Curation of Clusters and final Export of the Corpus + Creation of HTML-frontend 
 
 ## Model
-For this thesis I trained a YOLOv8 model with 508 annotated pages from "Die Bombe". While the training data and the validation set (106 pages) are provided in the repository, the trained model is available on Huggingface: 
+For this thesis I trained a YOLOv8 model with 508 annotated pages from "Die Bombe". While the training data and the validation set (106 pages) are provided via Zenodo, the trained model is available on Huggingface: 
  - [LisaGollner/YOLOv8_trained_Bombe](https://doi.org/10.57967/hf/10080)
  - [Training-Dataset_Bombe_1871-1925](https://doi.org/10.5281/zenodo.18757852)
 
